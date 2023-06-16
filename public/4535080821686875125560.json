@@ -1,0 +1,880 @@
+{
+  "project_info": {
+    "project_number": "313863166838",
+    "project_id": "ardev-project",
+    "storage_bucket": "ardev-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:9cd12ae469bafadfad7857",
+        "android_client_info": {
+          "package_name": "com.animegirl.animewallpapergirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:2a18cfd39cf98c8aad7857",
+        "android_client_info": {
+          "package_name": "com.ardevproject.animewallpaper.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:4f3c70ed9cfc1a86ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevproject.screenrecordervideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:53ae0e50fd4c18cdad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.butterflywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:7b21226244efe79bad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.flowerswallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:9a34a306b5f80f43ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.girlaestheticwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:0333cb751e8a2d63ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.hipsterwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:066c08c467e78335ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.horsewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:1c4b7717bd6f9723ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.islamicwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:e5b5b1439689127aad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.kawaiiwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:c40c1c882641f095ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.lionwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:a3df7fcae1319c19ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.moonwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:2948e2068c76f64bad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.neonwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:1bdc84491c7890ccad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.wallpaperzodiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:2687fb41f0e2a071ad7857",
+        "android_client_info": {
+          "package_name": "com.ardevwallpaper.wolfwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:de9474b6789ca849ad7857",
+        "android_client_info": {
+          "package_name": "com.brokenscreen.brokenwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:6008cea300856603ad7857",
+        "android_client_info": {
+          "package_name": "com.cutecat.catwallpaperimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:ad8af5a5d2fb9fb7ad7857",
+        "android_client_info": {
+          "package_name": "com.cutekawaii.kawaiiwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:e7816a9f3e22c4d3ad7857",
+        "android_client_info": {
+          "package_name": "com.cutewallpaper.girlywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:f60dc8ecbeb048f1ad7857",
+        "android_client_info": {
+          "package_name": "com.girlwallpaper.wallpaperforgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:cbc0880a8462007bad7857",
+        "android_client_info": {
+          "package_name": "com.girlywallpaper.glittergirlywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:36fe8aa2d6f89e2bad7857",
+        "android_client_info": {
+          "package_name": "com.imagepdf.pdfconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:5c4f88c827711a30ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.adventuremapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:703162642d37adb9ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.amusementmapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:8a7c1c0063b3eca9ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.castlemapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:30b11462cbfd03d9ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.mastermapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:fc498261c1b54bdbad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.parkourmapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:e3caf2a2c1f7a3c2ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.skyblockmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:81eed8348e50f9e3ad7857",
+        "android_client_info": {
+          "package_name": "com.mapsminecraft.survivalmapsmcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313863166838:android:88b5a6061f96aff1ad7857",
+        "android_client_info": {
+          "package_name": "com.maxvpn.secureboosterproxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJd_QiEplYMfNQS61s76iX7DG3iIjJLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313863166838-ksrlq5a934vjd640eegcqr1vp2c69kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
